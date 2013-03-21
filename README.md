@@ -1,0 +1,2 @@
+#SSHd log parser
+A simple take on parsing out the interesting bits from SSH log fails. Eventually want to log these to a datastore of some kind and do a live watch on the log files. Built around the OpenSSH_5.8p1 Debian-7ubuntu1, OpenSSL 1.0.0e 6 Sep 2011 sshd log format.
